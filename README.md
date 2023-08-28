@@ -6,13 +6,13 @@
 This repository contains a data pipeline implemented as a Directed Acyclic Graph (DAG) using Apache Airflow. The pipeline fetches user data from a random user API, transforms it, and loads it into a PostgreSQL database using Docker containers.
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Dependencies](#dependencies)
-- [Setup Instructions](#setup-instructions)
-- [DAG Overview](#dag-overview)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- ## Introduction
+- ## Dependencies
+- ## Setup-instructions
+- ## Dag-overview
+- ## Usage
+- ## Contributing
+- ## License
 
 ## Introduction
 
