@@ -82,7 +82,7 @@ default_args = {
 
 # Creating DAG instance
 with DAG(
-    'user_data_processing_v4',
+    'user_data_processing',
     default_args=default_args,
     schedule_interval='@daily',  # Run daily
     start_date=datetime(2023, 8, 1, 0, 0),  # Start from August 1, 2023, at midnight
