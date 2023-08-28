@@ -58,7 +58,7 @@ def create_dataframe(extracted_data):
 
 
 
-#
+# Loading data to database
 def load_dataframe_to_postgresql(df):
     # Create a connection to the PostgreSQL database
     database_url = "postgresql://username:password@host:port/database"
