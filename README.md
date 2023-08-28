@@ -60,7 +60,6 @@ Contributions are welcome! Feel free to fork this repository, make improvements,
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is All Rights Reserved. You may not use, distribute, or reproduce any part of the code or content without explicit permission from the project owner.
 
 ```
-![image](https://github.com/Owengerald/api_data_etl_pipeline_airflow/assets/134776284/5cfc25d6-86a6-45c1-8bc9-bb1d48076666)
